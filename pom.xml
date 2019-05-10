@@ -114,6 +114,5 @@
     <id>3rd-mavenproject</id>
     <url>http://52.70.81.46:8081/nexus/content/repositories/3rd-mavenproject</url>
   </snapshotRepository>  
-  </repository>
 </distributionManagement>
 </project>

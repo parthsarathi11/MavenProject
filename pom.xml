@@ -108,12 +108,13 @@
   <distributionManagement>
   <repository>
     <id>3rd-mavenRe-repo</id>
-    <url>http://52.70.81.46:8081/nexus/content/repositories/3rd-mavenRe-repo</url>
-    <snapshotRepository>
-    <repository>
-    <id>3rd-mavenRe-repo</id>
-    <url>http://52.70.81.46:8081/nexus/content/repositories/3rd-mavenRe-repo</url>
+    <url>http://52.70.81.4:8081/nexus/content/repositories/3rd-mavenRe-repo</url>
+  </repository>
+ <snapshotRepository>
+    <id>3rd-mavenproject</id>
+    <url>http://52.70.81.4:8081/nexus/content/repositories/3rd-mavenproject</url>
+  </snapshotRepository>
+</distributionManagement>  
   </repository>
 </distributionManagement>
-
 </project>
